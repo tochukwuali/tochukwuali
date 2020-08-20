@@ -4,7 +4,7 @@
   <a href="https://twitter.com/tochukwuali3">Twitter</a>
 </p> 
 
-I'm a frontend Engineer. I'm passionate about building software that adapts to the users lifestyle. I'm currently looking for a frontend position. I'm proficient with React, NodeJs. I build with a mobile first approach while paying close attention to accessibility. When I'm not coding, I love to read books and support my favourite football club.
+I'm a frontend Engineer. I'm passionate about building software that adapts to the users lifestyle. I'm currently looking for a frontend position. I'm proficient with React, NodeJs. I build software with a mobile first approach while paying close attention to accessibility. When I'm not coding, I love to read books and support my favourite football club.
 
 - 🔭 I’m currently working on note-taker (a note taking applicaton with React)
 - 💬 Ask me about: React

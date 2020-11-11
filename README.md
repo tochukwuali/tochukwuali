@@ -8,7 +8,7 @@ I'm a frontend Engineer. I'm passionate about building software that adapts to t
 
 - 🔭 I’m currently working on a e-commerce application for a fashion retail business (with React)
 - 💬 Ask me about: React
-- 🤔 I’m looking for help with: React
+- 🤔 I’m looking to collaborate on: Anything front-end; both implementation and design
 - 📫 How to reach me: [@tochukwuali3](https://twitter.com/tochukwuali3)
 - 🌱 I’m currently learning: TypeScript
 
